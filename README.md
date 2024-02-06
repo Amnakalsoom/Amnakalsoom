@@ -1,0 +1,9 @@
+- 👋 Hi, Its me Amna kalsoom
+- 👀 I have intrust in programmig ...
+- 🌱 I’m currently learning C++ ...
+- ⚡ I'm Artist too ...
+
+<!---
+Amnakalsoom/Amnakalsoom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
