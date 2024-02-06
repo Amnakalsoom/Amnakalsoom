@@ -1,0 +1,25 @@
+#include<iostream>
+using namespace std;
+class User
+{
+    private:
+    int n;
+    public:
+    void input()
+    {
+        cout<<"Enter date:";
+       cin>>n;
+   }
+   void out()
+   {
+        cout<<"Enter Date:"<<n;
+        
+    }
+};
+int main()
+{
+	User u;
+	u.input();
+	u.out();
+	return 0;
+}
